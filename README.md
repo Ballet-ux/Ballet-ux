@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ballet-ux
-- 👀 I’m interested in Python and Bubble
+- 👀 I’m interested in Python and Dynamic web creation
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on other SaaS and Python developer
 - 📫 How to reach me ...
